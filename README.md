@@ -20,6 +20,8 @@ NestJS server handling authentication, profiles, posts, likes, and comments usin
 ### 1. Install Dependencies
 
 ```bash
+git checkout master
+
 cd backend
 npm install
 
